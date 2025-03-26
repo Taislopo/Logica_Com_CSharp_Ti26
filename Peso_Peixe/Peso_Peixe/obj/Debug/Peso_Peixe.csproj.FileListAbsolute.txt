@@ -1,0 +1,7 @@
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Peso_Peixe\Peso_Peixe\obj\Debug\Peso_Peixe.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Peso_Peixe\Peso_Peixe\obj\Debug\Peso_Peixe.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Peso_Peixe\Peso_Peixe\bin\Debug\Peso_Peixe.exe.config
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Peso_Peixe\Peso_Peixe\bin\Debug\Peso_Peixe.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Peso_Peixe\Peso_Peixe\bin\Debug\Peso_Peixe.pdb
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Peso_Peixe\Peso_Peixe\obj\Debug\Peso_Peixe.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Peso_Peixe\Peso_Peixe\obj\Debug\Peso_Peixe.pdb
