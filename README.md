@@ -8,4 +8,3 @@
 🔹 Repetir tarefas (loops com for, while)
 🔹 Resolver problemas com exercícios práticos
 
-Vou usar o Visual Studio para escrever e testar meus programas, desde o básico até construir pequenos projetos. No final, vou estar pronto para avançar em C# ou outras linguagens!
