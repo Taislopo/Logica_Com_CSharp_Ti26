@@ -17,11 +17,11 @@ namespace SOMA
                Console.Write(" Digite um segundo numero: ");
                num2 = int.Parse(Console.ReadLine());
                if (num1 >= num2)
-               { Console.Write(" o numero ", num1, " é maior que o numero ", num2);
+               { Console.Write(" o numero ", num1, " é maior que o numero " + num2);
                     ,}
                   else
        {
-                    Console.Write(" o numero ", num1, " é menor que o numero ", num2);
+                    Console.Write(" o numero ", num1, " é menor que o numero " + num2);
                     }
        
 
