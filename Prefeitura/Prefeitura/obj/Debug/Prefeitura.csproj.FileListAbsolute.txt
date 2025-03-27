@@ -1,0 +1,7 @@
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Prefeitura\Prefeitura\bin\Debug\Prefeitura.exe.config
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Prefeitura\Prefeitura\bin\Debug\Prefeitura.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Prefeitura\Prefeitura\bin\Debug\Prefeitura.pdb
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Prefeitura\Prefeitura\obj\Debug\Prefeitura.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Prefeitura\Prefeitura\obj\Debug\Prefeitura.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Prefeitura\Prefeitura\obj\Debug\Prefeitura.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Prefeitura\Prefeitura\obj\Debug\Prefeitura.pdb
