@@ -1,0 +1,7 @@
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Faixa_de_Valores\Faixa_de_Valores\bin\Debug\Faixa_de_Valores.exe.config
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Faixa_de_Valores\Faixa_de_Valores\bin\Debug\Faixa_de_Valores.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Faixa_de_Valores\Faixa_de_Valores\bin\Debug\Faixa_de_Valores.pdb
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Faixa_de_Valores\Faixa_de_Valores\obj\Debug\Faixa_de_Valores.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Faixa_de_Valores\Faixa_de_Valores\obj\Debug\Faixa_de_Valores.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Faixa_de_Valores\Faixa_de_Valores\obj\Debug\Faixa_de_Valores.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Faixa_de_Valores\Faixa_de_Valores\obj\Debug\Faixa_de_Valores.pdb
