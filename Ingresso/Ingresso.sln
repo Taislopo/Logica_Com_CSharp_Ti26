@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ingresso", "Ingresso\Ingresso.csproj", "{2A61800D-A734-47FC-96A2-93038480FFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A61800D-A734-47FC-96A2-93038480FFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A61800D-A734-47FC-96A2-93038480FFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A61800D-A734-47FC-96A2-93038480FFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A61800D-A734-47FC-96A2-93038480FFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
