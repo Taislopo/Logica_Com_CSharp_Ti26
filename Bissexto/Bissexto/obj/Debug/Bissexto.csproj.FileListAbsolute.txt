@@ -1,0 +1,7 @@
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Bissexto\Bissexto\bin\Debug\Bissexto.exe.config
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Bissexto\Bissexto\bin\Debug\Bissexto.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Bissexto\Bissexto\bin\Debug\Bissexto.pdb
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Bissexto\Bissexto\obj\Debug\Bissexto.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Bissexto\Bissexto\obj\Debug\Bissexto.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Bissexto\Bissexto\obj\Debug\Bissexto.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Bissexto\Bissexto\obj\Debug\Bissexto.pdb
