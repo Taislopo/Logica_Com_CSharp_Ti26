@@ -19,7 +19,11 @@ namespace SOMA
                if (num1 >= num2)
                { Console.Write(" o numero " + num1 + " é maior que o numero " + num2);
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                     ,}
+=======
+                    }
+>>>>>>> Stashed changes
 =======
                     }
 >>>>>>> Stashed changes
