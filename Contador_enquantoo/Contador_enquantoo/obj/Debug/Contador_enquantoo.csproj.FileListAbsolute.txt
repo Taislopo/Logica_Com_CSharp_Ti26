@@ -1,0 +1,7 @@
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Contador_enquantoo\Contador_enquantoo\obj\Debug\Contador_enquantoo.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Contador_enquantoo\Contador_enquantoo\obj\Debug\Contador_enquantoo.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Contador_enquantoo\Contador_enquantoo\bin\Debug\Contador_enquantoo.exe.config
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Contador_enquantoo\Contador_enquantoo\bin\Debug\Contador_enquantoo.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Contador_enquantoo\Contador_enquantoo\bin\Debug\Contador_enquantoo.pdb
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Contador_enquantoo\Contador_enquantoo\obj\Debug\Contador_enquantoo.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Contador_enquantoo\Contador_enquantoo\obj\Debug\Contador_enquantoo.pdb
