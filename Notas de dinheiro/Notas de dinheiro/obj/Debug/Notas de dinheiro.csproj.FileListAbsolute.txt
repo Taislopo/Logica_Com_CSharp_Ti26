@@ -1,0 +1,2 @@
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Notas de dinheiro\Notas de dinheiro\obj\Debug\Notas de dinheiro.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Notas de dinheiro\Notas de dinheiro\obj\Debug\Notas de dinheiro.csproj.CoreCompileInputs.cache
