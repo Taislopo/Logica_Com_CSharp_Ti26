@@ -1,0 +1,7 @@
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Enquanto_impares\Enquanto_impares\bin\Debug\Enquanto_impares.exe.config
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Enquanto_impares\Enquanto_impares\bin\Debug\Enquanto_impares.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Enquanto_impares\Enquanto_impares\bin\Debug\Enquanto_impares.pdb
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Enquanto_impares\Enquanto_impares\obj\Debug\Enquanto_impares.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Enquanto_impares\Enquanto_impares\obj\Debug\Enquanto_impares.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Enquanto_impares\Enquanto_impares\obj\Debug\Enquanto_impares.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Enquanto_impares\Enquanto_impares\obj\Debug\Enquanto_impares.pdb

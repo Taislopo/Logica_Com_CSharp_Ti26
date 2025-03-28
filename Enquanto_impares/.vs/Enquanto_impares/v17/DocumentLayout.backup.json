@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tais.clopes\\source\\repos\\Logica _Com_CSharp_TI26\\Logica_Com_CSharp_Ti26\\Enquanto_impares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB31D2-D967-49E6-9B55-9E81D7030A7B}|Enquanto_impares\\Enquanto_impares.csproj|c:\\users\\tais.clopes\\source\\repos\\logica _com_csharp_ti26\\logica_com_csharp_ti26\\enquanto_impares\\enquanto_impares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB31D2-D967-49E6-9B55-9E81D7030A7B}|Enquanto_impares\\Enquanto_impares.csproj|solutionrelative:enquanto_impares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tais.clopes\\source\\repos\\Logica _Com_CSharp_TI26\\Logica_Com_CSharp_Ti26\\Enquanto_impares\\Enquanto_impares\\Program.cs",
+              "RelativeDocumentMoniker": "Enquanto_impares\\Program.cs",
+              "ToolTip": "C:\\Users\\tais.clopes\\source\\repos\\Logica _Com_CSharp_TI26\\Logica_Com_CSharp_Ti26\\Enquanto_impares\\Enquanto_impares\\Program.cs*",
+              "RelativeToolTip": "Enquanto_impares\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:25:58.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
