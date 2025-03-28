@@ -1,0 +1,7 @@
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Zero_Enquanto\Zero_Enquanto\bin\Debug\Zero_Enquanto.exe.config
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Zero_Enquanto\Zero_Enquanto\bin\Debug\Zero_Enquanto.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Zero_Enquanto\Zero_Enquanto\bin\Debug\Zero_Enquanto.pdb
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Zero_Enquanto\Zero_Enquanto\obj\Debug\Zero_Enquanto.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Zero_Enquanto\Zero_Enquanto\obj\Debug\Zero_Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Zero_Enquanto\Zero_Enquanto\obj\Debug\Zero_Enquanto.exe
+C:\Users\tais.clopes\source\repos\Logica _Com_CSharp_TI26\Logica_Com_CSharp_Ti26\Zero_Enquanto\Zero_Enquanto\obj\Debug\Zero_Enquanto.pdb
